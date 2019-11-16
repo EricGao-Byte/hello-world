@@ -1,2 +1,3 @@
 # hello-world
-first start to use github
+A colleage student from China thar first start to use github.
+Still learning how to use github......
